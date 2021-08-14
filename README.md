@@ -8,5 +8,6 @@ The order of the sections of this course will be as follows, which will be added
 
 1) Numpy
 2) Pandas
+3) Matplotlib & Searbon
 
 be happy :)
