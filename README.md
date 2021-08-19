@@ -13,5 +13,6 @@ The order of the sections of this course will be as follows, which will be added
 5) Logistic Regression (Comes with "Multi_Regression")
 6) Preprocessing (With scikit-learn library)
 7) GridSerach & Cross-Validatoin
+8) Regularization
 
 be happy :)
