@@ -15,5 +15,6 @@ The order of the sections of this course will be as follows, which will be added
 7) GridSerach & Cross-Validatoin
 8) Regularization
 9) K-Nearest Neighbor
+10) Naive_Bayes
 
 be happy :)
