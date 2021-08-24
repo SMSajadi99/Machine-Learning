@@ -19,5 +19,6 @@ The order of the sections of this course will be as follows, which will be added
 11) Artificial Neural Network
 12) Support Vector Machine (SVM)
 13) Support Vector Regression (SVR)
+14) Decision Tree (Regression & Classification)
 
 be happy :)
