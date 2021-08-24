@@ -18,5 +18,6 @@ The order of the sections of this course will be as follows, which will be added
 10) Naive_Bayes
 11) Artificial Neural Network
 12) Support Vector Machine (SVM)
+13) Support Vector Regression (SVR)
 
 be happy :)
