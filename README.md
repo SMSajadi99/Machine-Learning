@@ -20,5 +20,6 @@ The order of the sections of this course will be as follows, which will be added
 12) Support Vector Machine (SVM)
 13) Support Vector Regression (SVR)
 14) Decision Tree (Regression & Classification)
+15) Random Forest (Regression & Classification)
 
 be happy :)
