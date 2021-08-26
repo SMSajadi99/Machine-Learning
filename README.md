@@ -21,5 +21,6 @@ The order of the sections of this course will be as follows, which will be added
 13) Support Vector Regression (SVR)
 14) Decision Tree (Regression & Classification)
 15) Random Forest (Regression & Classification)
+16) XGBoost (Regression & Classification)
 
 be happy :)
