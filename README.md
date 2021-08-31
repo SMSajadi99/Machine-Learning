@@ -23,5 +23,6 @@ The order of the sections of this course will be as follows, which will be added
 15) Random Forest (Regression & Classification)
 16) XGBoost (Regression & Classification)
 17) k_means
+18) DBScan
 
 be happy :)
