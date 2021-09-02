@@ -25,5 +25,6 @@ The order of the sections of this course will be as follows, which will be added
 17) k_means
 18) DBScan
 19) Principal Component Analysis (PCA)
+20) Streamlit
 
 be happy :)
