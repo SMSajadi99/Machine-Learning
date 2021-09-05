@@ -27,5 +27,6 @@ The order of the sections of this course will be as follows, which will be added
 19) Principal Component Analysis (PCA)
 20) Streamlit App
 21) PyCaret
+22) Projects
 
 be happy :)
